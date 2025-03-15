@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Oi,%20eu%20sou%20o%20Pedro!&fontAlignY=33&fontSize=30&desc=Seja%20bem-vindx%20ao%20meu%20perfil%20:&descAlign=82&fontAlign=23&descAlignY=34&descSize=15)
+![header](https://pa1.aminoapps.com/7088/e0edc729569f06c4c337a4d14ecf282907331d21r1-320-176_00.gif)
