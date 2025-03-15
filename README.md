@@ -5,8 +5,8 @@
 
 ```markdown
 # Hey there! 👋  
-**I'm Pedro** – a frontend developer in the making, passionate about technology, games and turning random thoughts into codes!
-Currently studying Systems Engineering at UFMG.
+**I'm Pedro** – a frontend developer in the making, passionate about technology, games and turning random thoughts into
+codes! Currently studying Systems Engineering at UFMG.    
 Let's connect and build whatever! 💻🎮
 ```
 
