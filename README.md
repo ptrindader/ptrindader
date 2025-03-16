@@ -20,22 +20,23 @@ Let's connect and build whatever! 💻🎮
 </div>
 <br>
 
-<!--Check out my [portfolio](https://thijs.gg).-->
-
-## Currently improving:
+## Currently improving 📚
 
 [![SkillIcons](https://skillicons.dev/icons?i=html,css,js,php,figma,py)](https://skillicons.dev)<br/>
+
 <br>
+
+<div>
+  
+  ## Github Stats
+  <a href="https://github.com/ptrindader">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptrindader&layout=compact&langs_count=7&theme=github_dark"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ptrindader&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+</div>
+
 <br>
-## Other skills:
+
+## Other skills ☑️
 ### Have worked with:
   
 [![SkillIcons](https://skillicons.dev/icons?i=py,html,css,js,php,figma,c,cpp,vscode,git,windows)](https://skillicons.dev)<br/>
-
-<br>
-
-## Github Stats
-<a href="https://github.com/ptrindader">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptrindader&layout=compact&langs_count=7&theme=github_dark"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ptrindader&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
