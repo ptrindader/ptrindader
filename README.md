@@ -19,18 +19,20 @@ Let's connect and build whatever! 💻🎮
   <a href="https://instagram.com/ptrindader" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 <br>
+
 <!--Check out my [portfolio](https://thijs.gg).-->
 
-  ## Currently improving:
+## Currently improving:
 
-  [![SkillIcons](https://skillicons.dev/icons?i=html,css,js,php,figma,py)](https://skillicons.dev)<br/>
-  <br>
-  <br>
-  ## Other skills:
-  ### Have worked with:
-    
-  [![SkillIcons](https://skillicons.dev/icons?i=py,html,css,js,php,figma,c,cpp,vscode,git,windows)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,php,figma,py)](https://skillicons.dev)<br/>
+<br>
+<br>
+## Other skills:
+### Have worked with:
+  
+[![SkillIcons](https://skillicons.dev/icons?i=py,html,css,js,php,figma,c,cpp,vscode,git,windows)](https://skillicons.dev)<br/>
 
+<br>
 
 ## Github Stats
 <a href="https://github.com/ptrindader">
