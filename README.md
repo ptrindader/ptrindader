@@ -6,11 +6,11 @@
 ```markdown
 # Hey there! 👋  
 **I'm Pedro** – a frontend developer in the making, passionate about technology, games and turning  
-random thoughts into codes! Currently studying Systems Engineering at UFMG.    
+random thoughts into codes! I also love design, from creating interfaces in Figma to editing visuals. 🎨✨  
+Currently studying Systems Engineering at UFMG.  
+  
 Let's connect and build whatever! 💻🎮
 ```
-
-
 
 ## Reach Out to Me! 📩
 <div align="left">
@@ -20,10 +20,16 @@ Let's connect and build whatever! 💻🎮
 </div>
 <br>
 
-## Currently improving 📚
+## Technologies ⚙️
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,php,figma,py)](https://skillicons.dev)<br/>
+### ☑️ Main Skills
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,php,figma)](https://skillicons.dev)
 
+### ☑️ Currently Studying
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,js,php,py)](https://skillicons.dev)<br/>
+
+### ☑️ Have worked with:
+[![SkillIcons](https://skillicons.dev/icons?i=py,html,css,js,php,figma,c,cpp,vscode,git,windows)](https://skillicons.dev)<br/>
 <br>
 
 <div>
@@ -33,10 +39,4 @@ Let's connect and build whatever! 💻🎮
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ptrindader&layout=compact&langs_count=7&theme=github_dark"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ptrindader&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 </div>
-
 <br>
-
-## Other skills ☑️
-### Have worked with:
-  
-[![SkillIcons](https://skillicons.dev/icons?i=py,html,css,js,php,figma,c,cpp,vscode,git,windows)](https://skillicons.dev)<br/>
