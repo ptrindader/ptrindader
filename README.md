@@ -1,7 +1,7 @@
-![header](https://private-user-images.githubusercontent.com/78508023/423064644-e28409dc-0d32-4f1f-8b88-07127a26380b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDIxNTA4NDgsIm5iZiI6MTc0MjE1MDU0OCwicGF0aCI6Ii83ODUwODAyMy80MjMwNjQ2NDQtZTI4NDA5ZGMtMGQzMi00ZjFmLThiODgtMDcxMjdhMjYzODBiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAzMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMzE2VDE4NDIyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE1ZDVlNTBlNWQwYjVhZjZmMTM3ZTgzYjFiZTIwZTg4NThhOTBjM2UxN2U1MTczNjM4MmU3OTRmMzEyNjNiYWUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.aNilWkrIRcidYTClGV1xnF3a7MGvy54gHLO2cvZn3z4)
+![header](https://github.com/ptrindader/ptrindader/blob/main/gif-GHprofile.gif?raw=true)
 
-![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/276544649148235776?simple=true)
-[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/276544649148235776)](https://dev.discordprofiles.me/openspotify/276544649148235776)
+![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/704156847720104057?simple=true)
+[![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/704156847720104057)](https://dev.discordprofiles.me/openspotify/704156847720104057)
 
 ```markdown
 # Hey there! 👋  
